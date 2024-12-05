@@ -21,3 +21,7 @@ CTAs: Including clear calls to action like contact forms and engagement prompts 
 SEO and Analytics: Implementing SEO practices and tracking user behavior with tools like Google Analytics is necessary.
 These improvements will help create a more engaging experience and effectively showcase my work and skills."
 
+![Desktop - 6](https://github.com/user-attachments/assets/207b5048-0b78-4ad1-a2cb-6295257ad73b)
+![Screenshot (349)](https://github.com/user-attachments/assets/c000e554-753a-40a7-af1f-4f00bfc7645e)
+![Screenshot (347)](https://github.com/user-attachments/assets/1c819688-e984-4755-8ce3-e9612378514d)
+
