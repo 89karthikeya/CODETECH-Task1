@@ -1,10 +1,10 @@
-Name: Pasala Venkata Satya Siva Karthikeya
-Company: CODETECH IT SOLUTIONS
-ID: CT6WDS2188
-Domain: UI/UX
-DUration: October 30th 2024 to December 15th 2024
+**Name:** Pasala Venkata Satya Siva Karthikeya
+**Company:** CODETECH IT SOLUTIONS
+**ID:** CT6WDS2188
+**Domain:** UI/UX
+**Duration:** October 30th 2024 to December 15th 2024
 
-Overview of the project 
+**Overview of the project** 
 
 Project: Redesign your personal portfolio website to showcase your work and skills in a visually
 appealing and user-friendly manner. Focus on improving the layout, navigation, and
